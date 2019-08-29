@@ -57,6 +57,12 @@ Create .env file and set
  -   `DB_DATABASE=inventory`
  -   `DB_USERNAME=root`
  -   `leave password blank`
+
+Or
+```
+ -   `Rename - Copy.env to .env`
+
+
 ```
 Now Write in command prompt 
 
